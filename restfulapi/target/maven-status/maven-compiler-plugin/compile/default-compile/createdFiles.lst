@@ -1,0 +1,5 @@
+com\example\restfulapi\service\UserService.class
+com\example\restfulapi\controller\UserController.class
+com\example\restfulapi\RestfulApiApplication.class
+com\example\restfulapi\repository\UserRepository.class
+com\example\restfulapi\model\User.class
